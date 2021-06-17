@@ -1,1 +1,2 @@
-# unix651
+# operativni_sistemi
+Djordje Molnar
